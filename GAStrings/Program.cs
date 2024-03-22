@@ -4,7 +4,16 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
-        }
+           
+            Console.WriteLine("Adam!");
+       
+            string myFirstName = "Adam";
+
+            Console.WriteLine("Ishak");
+            Console.WriteLine("Hello brother");
+
+
+        } 
+        
     }
 }
